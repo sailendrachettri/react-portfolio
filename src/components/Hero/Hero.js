@@ -12,7 +12,7 @@ const Hero = () => (
           My Personal Projects 
         </SectionTitle>
         <SectionText>
-          The main purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+          I created this portfolio while learning react with 'JavaScript Mastery' video course on youtube.
         </SectionText>
         <Button onClick = {() => window.location = 'https://linkedin.com/in/sailendrachettri'}>Learn more</Button>
     </LeftSection>

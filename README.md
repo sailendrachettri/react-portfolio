@@ -1,3 +1,5 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+# I create this portfolio web application while learning react with 'JavaScript Mastery' channel on YouTube.
+
+![Portfolio Website]()
